@@ -3,7 +3,7 @@
 
 ## Description
     
-JATE is a text editor which runs in the browser. It is a single page Progressive Web App. It uses IndexedDB to get and store data. It works on or offline 
+JATE is a text editor which runs in the browser. It is a single page Progressive Web App. It uses IndexedDB to get and store data. It works on or offline!
     
 ## Table of Contents (Optional)
     
