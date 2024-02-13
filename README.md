@@ -21,7 +21,7 @@ it can be accessed at the deployed link:
     
 It is a text editor which can be used on/offline
     
-'Add a screenshot here!'     
+![Working screenshot](Assets\JATEscreenshot.png)
     
 ## Credits
     
